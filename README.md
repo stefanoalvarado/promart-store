@@ -3,8 +3,7 @@
 Ecommerce desarrollado como reto técnico para el proceso de selección de Promart.
 
 ## Demo
-[Link del deploy] ← agregarás esto después
-
+https://promart-store.vercel.app
 
 ## Mockup de referencia
 Login
