@@ -44,10 +44,10 @@ npm run dev
 
 ## Estructura del proyecto
 src/
-├── context/        # CartContext — estado global del carrito
-├── pages/          # Login, Home, Cart
-├── services/       # authService, productService, cartService
-└── index.css       # Variables globales de color
+  context/     → CartContext (estado global del carrito)
+  pages/       → Login, Home, Cart
+  services/    → authService, productService, cartService
+  index.css    → Variables globales de color
 
 ## API
 Se utiliza FakeStore API como backend simulado:
